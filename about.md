@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-The struggle to reach eudaimonia. 
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+The struggle to reach eudaimonia and a meaningful life.
 
 
-[jekyll-organization]: https://github.com/jekyll

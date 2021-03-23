@@ -1,2 +1,3 @@
 # mihai011.github.io
-control
+
+The blog.

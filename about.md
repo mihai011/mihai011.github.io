@@ -8,4 +8,4 @@ Skills:
 
 Python, Javascript and Rust(learning).
 
-[here](https://leetcode.com/mihaimihai011/)
+My leetcode profile [here](https://leetcode.com/mihaimihai011/)

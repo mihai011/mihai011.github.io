@@ -2,7 +2,7 @@
 layout: post
 title:  "Though, reality and truth"
 date:   2022-10-12 10:20:14 +0300
-categories: jekyll update
+categories: truth thought reality
 ---
 
 # Thought, truth and relationship to reality

@@ -1,26 +1,27 @@
 ---
 layout: post
 title:  "Though, reality and truth"
-date:   2022-10-12 10:20:14 +0300
-categories: jekyll update
+date:   2022-10-11 10:20:14 +0300
+categories: philo
 ---
 
-# Thought, truth and relationship to reality
+## Thought, truth and relationship to reality
 
-## Thought defintion
+# Thought defintion
 The name 'thought' can be a difficult thing to explain and most of all to understand. I should consider thought from a technical standpoint an atomic unit of calculation in terms of electrical impulses transmitted by a chain of neurones in a controlled and concise manner to form an interpretable signal. Now that in itself hides much more mystery than what it actually tries to clarify. Let's get step by step inside this definition.
 The word "atomic" represents the indivisibility of the entity which is being defined. A thought cannot be divided in multiple separated entities. For instance, supposedly along the chain of neurones we try to interpret the signal that is being transmitted along the way. This signal in any of the states that is being processed will have been uninterpretable at this point since each neuron is adding its modification to the signal that is passing through it.
 The syntagm "unit of calculation" is a bit of a strange one since it implies a form of biological computation on part of the series of neurones. If we are to compare this unit of computation to the one of a physical processor, we can make a safe assumption that the biological unit of computation is equivalent to clock cycle of a processor.
 The electrical signal itself is formed by phenomenon called Action Potential, which creates electricity using the positive charge of ions though the neuronal membrane.
 All of this creates a 'thought' which represents the building blocks of person's knowledge, memory, perception processing and general cognition.
 
-## Thought and reality
+# Thought and reality
 As 'thought' is considered technically. a series of electrical impulses in the brain, this process is strictly connected to the perception of the outside world, namely reality. Reality, in the context of a thought, is the medium in which the thought operates. Again, making a parallel to a computer,  reality represents the input to a machine and also the output. The input in this particular case is an amalgamation of perceptions offered by our sensory organs, that which we call senses (sight, hearing, smell , touch, taste), and the output is a series of actions that are exerted over the reality. A good example of this is the reaction when we touch with the hand a hot plate. The sense of touch sends electrical impulses to the brain which are processed trough a series of thoughts and finally a response is created that commands that the hand to be removed from the plate. All of this happens in therms of fractions of a second. Theres are couple questions here that we must be aware of. First, how is the human brain able to create a response in such a short time, and second, how is did the brain resulted in such a direct and concise response.
 First, speed at which the electrical impulses travel from the hand to the brain is approximately 40 m/s, once it reaches the brain this impulse is recognised as what I called a 'prime signal'. A prime signal is an impulse that needs only an automated response from the brain and not a process of reasoning. Again a similar connection to that of a computer would be the cache system. Instead of allowing the brain to process the perception, it recognises the signal and sends a cached response. The second question implies about the actual responses that the brain sends. This response must have been created by either a past experience or trained process. This is kept as an already prepared response to the stimuli in question, ready to be sent at a moment's notice.
 Another form of thought through which a person can exercit actions and interpretations on the reality is called reasoning. Reasoning can be considered a collection of thoughts that together can create a complex form of response and actions. Reasoning is therefore used as the main computational flow for the human mind, As we encounter new events, environments and situations, reasoning allows us to create appropriate responses and build up experience.
 The relationship between thought and reality is closely knit one. Reality dictates the input to the brain, thought is the mechanism that takes that input and transforms it thought the act of reasoning into appropriate responses.
-Truth
+
+# Truth
 Most likely the most import element that we have not discussed, since the title of the essay include, also the word 'truth' . Truth, in our context, is a pre-cursing condition for the act of reasoning to happen. If we consider reality an objective source of perceptions, then truth is state of the actions that must be sent back. In other words, truth is the tool that we must use in contact with reality. As we encounter new perception, the state of truth can be not always be given in return since a proper response cannot be always found. As experiences accumulate, the importance of truth become more evident in the consequences of our actions. Since the human mind also has capacity for self delusion. the truth by choice is not exerted on the reality.I am talking of course about lying. This can have many causes, but from my point of view the main one is  the wish for different outcomes. The human mind has tendence to delusion itself with alternate versions of reality in which truth is exerted. In other words, lying is truth transmuted from a version of reality to another.
 
-## Truth, reality and thought
+# Truth, reality and thought
 In conclusion, thought is the undividable unit of computation, used in reasoning to exert actions on the reality. Truth is the condition of validating such actions in accordance with the reality. The goal of this relationship is to regulate, or more likely to encourage the use of truth and use of actions grounded in reality. This basic guide that exists for millions of years in all species and especially in humans is what has guided the course of evolution and what we must maintain for our future.

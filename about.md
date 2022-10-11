@@ -6,13 +6,6 @@ permalink: /about/
 
 Skills:
 
-Python/Django/Flask/REST_API
+Python, Javascript and Rust(learning).
 
-Javascript/NodeJS/ExpressJS
-
-Web Security
-
-Test Driven Developement
-
-Leetcode profile
 [here](https://leetcode.com/mihaimihai011/)

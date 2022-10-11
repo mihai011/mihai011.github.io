@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Though, reality and truth"
-date:   2022-10-12 10:20:14 +0300
+title: 'Though, reality and truth'
+date: '2022-10-12 10:20:14 +0300'
 categories: truth thought reality
+published: true
 ---
 
 # Thought, truth and relationship to reality
@@ -19,7 +20,8 @@ As 'thought' is considered technically. a series of electrical impulses in the b
 First, speed at which the electrical impulses travel from the hand to the brain is approximately 40 m/s, once it reaches the brain this impulse is recognised as what I called a 'prime signal'. A prime signal is an impulse that needs only an automated response from the brain and not a process of reasoning. Again a similar connection to that of a computer would be the cache system. Instead of allowing the brain to process the perception, it recognises the signal and sends a cached response. The second question implies about the actual responses that the brain sends. This response must have been created by either a past experience or trained process. This is kept as an already prepared response to the stimuli in question, ready to be sent at a moment's notice.
 Another form of thought through which a person can exercit actions and interpretations on the reality is called reasoning. Reasoning can be considered a collection of thoughts that together can create a complex form of response and actions. Reasoning is therefore used as the main computational flow for the human mind, As we encounter new events, environments and situations, reasoning allows us to create appropriate responses and build up experience.
 The relationship between thought and reality is closely knit one. Reality dictates the input to the brain, thought is the mechanism that takes that input and transforms it thought the act of reasoning into appropriate responses.
-Truth
+
+# Truth
 Most likely the most import element that we have not discussed, since the title of the essay include, also the word 'truth' . Truth, in our context, is a pre-cursing condition for the act of reasoning to happen. If we consider reality an objective source of perceptions, then truth is state of the actions that must be sent back. In other words, truth is the tool that we must use in contact with reality. As we encounter new perception, the state of truth can be not always be given in return since a proper response cannot be always found. As experiences accumulate, the importance of truth become more evident in the consequences of our actions. Since the human mind also has capacity for self delusion. the truth by choice is not exerted on the reality.I am talking of course about lying. This can have many causes, but from my point of view the main one is  the wish for different outcomes. The human mind has tendence to delusion itself with alternate versions of reality in which truth is exerted. In other words, lying is truth transmuted from a version of reality to another.
 
 ## Truth, reality and thought

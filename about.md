@@ -6,6 +6,6 @@ permalink: /about/
 
 Skills:
 
-Python, Javascript and Rust(learning).
+Programming language: Python, Javascript.
 
-My leetcode profile [here](https://leetcode.com/mihaimihai011/)
+My leetcode profile is [here](https://leetcode.com/mihaimihai011/).

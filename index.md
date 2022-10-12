@@ -5,5 +5,11 @@
 layout: home
 ---
 
+# Why?
+The pen is mightier than the sword and by sharpening your ability to think and communicate your ideas through writing, you will become lethal.(Jordan Peterson)
 
-Welome to my personal page about my general interests!
+# Ideas for essays
+
+- Purpose of beauty
+- Origin of totalitarian ideology
+- Free speech

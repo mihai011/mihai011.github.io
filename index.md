@@ -13,3 +13,4 @@ The pen is mightier than the sword and by sharpening your ability to think and c
 - Purpose of beauty
 - Origin of totalitarian ideology
 - Free speech
+- Kierkergaard in the modern age

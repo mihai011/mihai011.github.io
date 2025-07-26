@@ -21,3 +21,11 @@ In the book "Basic Economics" written by Thomas Sowell, at the end of it there a
 
     A prime example for this is the case of catastrophe. Keeping in the context of housing, after the San Francisco fire from 1906, when more than half the housing capacity got destroyed. This created in three days a great scarcity of housing, but since there was no price control implemented, a shortage was not present.
 
+2. Can a decision be economic, if there are no money involved? Why or why not?
+
+    Response:
+
+    Most of everyday decisions are actually based on economical principles, and most of them confront the classical problem of allocating scarce resources which have alternative uses.
+
+    Prime example: doctors at a hospital must sort the patients on the basis of their affections and resources needed to treat that affection.    
+    
